@@ -1,0 +1,60 @@
+about:
+  description: A cat(1) clone with wings.
+  license: Apache-2.0
+  homepage: 
+  head: 0acf941
+  archived: false
+  latestVersion: v0.26.1
+  collectedAt: 2026-09-02T04:58:08Z
+timeline:
+  created: 2018-04-21
+  lastCommit: 2026-09-01
+  lastRelease: 2025-12-02
+popularity:
+  star: 60337
+  watcher: 240
+  fork: 1638
+  release: 43
+  contributor: 439
+  pullRequest: 460
+  issue: 1631
+language:
+  Rust: 588632
+  Python: 9373
+  Shell: 3663
+  Nix: 863
+  Batchfile: 38
+totalLine: 602569
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 6
+    openPR: 13
+    closedIssue: 0
+    openIssue: 3
+    commit: 9
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 28
+    openPR: 45
+    closedIssue: 6
+    openIssue: 17
+    commit: 39
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 88
+    openPR: 78
+    closedIssue: 20
+    openIssue: 31
+    commit: 146
+  last360d:
+    since: 2025-09-07
+    release: 2
+    mergedPR: 187
+    openPR: 94
+    closedIssue: 61
+    openIssue: 50
+    commit: 333
