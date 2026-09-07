@@ -5,18 +5,18 @@ about:
   head: 7323a75
   archived: false
   latestVersion: "v0.26.1"
-  collectedAt: 2026-09-07T05:27:02Z
+  collectedAt: 2026-09-07T18:58:52Z
 timeline:
   created: 2018-04-21
   lastCommit: 2026-09-04
   lastRelease: 2025-12-02
 popularity:
-  star: 60383
-  watcher: 245
-  fork: 1642
+  star: 60387
+  watcher: 246
+  fork: 1643
   release: 43
   contributor: 441
-  pullRequest: 2159
+  pullRequest: 2223
   issue: 1633
 language:
   Rust: 592798
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 9
-    openPR: 35
+    openPR: 98
     closedIssue: 0
     openIssue: 5
     commit: 10
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 19
-    openPR: 57
+    openPR: 120
     closedIssue: 2
     openIssue: 10
     commit: 31
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 31
-    openPR: 68
+    openPR: 131
     closedIssue: 6
     openIssue: 18
     commit: 45
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-11
     release: 0
     mergedPR: 88
-    openPR: 99
+    openPR: 162
     closedIssue: 20
     openIssue: 33
     commit: 144
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-12
     release: 2
     mergedPR: 190
-    openPR: 118
+    openPR: 181
     closedIssue: 61
     openIssue: 50
     commit: 339
@@ -70,20 +70,20 @@ recent:
     since: 2024-09-17
     release: 3
     mergedPR: 330
-    openPR: 118
+    openPR: 181
     closedIssue: 133
     openIssue: 95
     commit: 942
 total:
   release: 43
   mergedPR: 1674
-  openPR: 119
+  openPR: 182
   closedIssue: 1305
   openIssue: 328
   commit: 4029
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/bat
-collectedAt: 2026-09-07T05:27:05Z
+collectedAt: 2026-09-07T18:58:58Z
 loc:
   Rust:
     code: 15142
@@ -726,7 +726,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:08+00:00
+  collectedAt: 2026-09-07T18:59:05+00:00
   platform:
     darwin/arm64:
       name:  bat-v0.26.1-aarch64-apple-darwin.tar.gz
