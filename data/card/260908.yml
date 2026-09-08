@@ -5,13 +5,13 @@ about:
   head: 7323a75
   archived: false
   latestVersion: "v0.26.1"
-  collectedAt: 2026-09-08T02:39:52Z
+  collectedAt: 2026-09-08T05:37:30Z
 timeline:
   created: 2018-04-21
   lastCommit: 2026-09-04
   lastRelease: 2025-12-02
 popularity:
-  star: 60388
+  star: 60389
   watcher: 246
   fork: 1643
   release: 43
@@ -83,7 +83,7 @@ total:
   commit: 4029
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/bat
-collectedAt: 2026-09-08T02:39:54Z
+collectedAt: 2026-09-08T05:37:35Z
 loc:
   Rust:
     code: 15142
