@@ -7,7 +7,7 @@ A cat(1) clone with wings.
 - **Latest release**: `v0.26.1` (2025-12-02)
 - **Last commit**: 2026-09-04
 - **License**: Apache-2.0
-- **Stars**: 60388 · **Forks**: 1643 · **Open issues**: 1633 · **Contributors**: 441
+- **Stars**: 60393 · **Forks**: 1642 · **Open issues**: 1633 · **Contributors**: 441
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/bat> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:45:34Z._
+_Last regenerated: 2026-09-09T05:39:28Z._
