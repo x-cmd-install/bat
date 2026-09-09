@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.26.1"
   latestRelease: "v0.26.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:39:22Z
+  collectedAt: 2026-09-09T19:57:33Z
 timeline:
   created: 2018-04-21
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-02
   lastPrerelease: 
 popularity:
-  star: 60393
+  star: 60392
   watcher: 247
   fork: 1642
   release: 43
@@ -87,7 +87,7 @@ total:
   commit: 4029
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/bat
-collectedAt: 2026-09-09T05:39:25Z
+collectedAt: 2026-09-09T19:57:41Z
 loc:
   Rust:
     code: 15142
