@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2910138,
       "digest": "sha256:da2ca4c742dc55216daeb68b6b7ce6d26fac0aae34f3b657c3322c14df4d0cc8",
-      "download_count": 3462,
+      "download_count": 3464,
       "created_at": "2025-12-02T20:54:18Z",
       "updated_at": "2025-12-02T20:54:18Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_arm64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3074590,
       "digest": "sha256:e2b709e7330e5e0e2b18924ebdd741f4a1e82265a2336a153f8db82567135d94",
-      "download_count": 6139,
+      "download_count": 6142,
       "created_at": "2025-12-02T20:59:40Z",
       "updated_at": "2025-12-02T20:59:40Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3216703,
       "digest": "sha256:e30beff26779c9bf60bb541e1d79046250cb74378f2757f8eb250afddb19e114",
-      "download_count": 55443,
+      "download_count": 55512,
       "created_at": "2025-12-02T20:55:14Z",
       "updated_at": "2025-12-02T20:55:14Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3434291,
       "digest": "sha256:af07dd1939e99f7f5892d197fc5653cb8cb6c5999552731135ad156eca7e38a5",
-      "download_count": 4651,
+      "download_count": 4660,
       "created_at": "2025-12-02T20:54:56Z",
       "updated_at": "2025-12-02T20:54:57Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3345545,
       "digest": "sha256:422eb73e11c854fddd99f5ca8461c2f1d6e6dce0a2a8c3d5daade5ffcb6564aa",
-      "download_count": 46366,
+      "download_count": 46432,
       "created_at": "2025-12-02T20:55:51Z",
       "updated_at": "2025-12-02T20:55:52Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3383478,
       "digest": "sha256:6369242c584065f195fb20cb36fbd7cb63ae690605bbe89868a7596b596c2c23",
-      "download_count": 30378,
+      "download_count": 30422,
       "created_at": "2025-12-02T20:54:18Z",
       "updated_at": "2025-12-02T20:54:18Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3380827,
       "digest": "sha256:410350b51436461dbdb4b0056203dcf4d30fc303873659ad837678cdf52c42b7",
-      "download_count": 2720,
+      "download_count": 2721,
       "created_at": "2025-12-02T20:53:47Z",
       "updated_at": "2025-12-02T20:53:48Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3367862,
       "digest": "sha256:07fcab3b17e146878179553c115beb4878835a30b0e5d046457015a5b8f6e7ed",
-      "download_count": 3267,
+      "download_count": 3269,
       "created_at": "2025-12-02T20:57:38Z",
       "updated_at": "2025-12-02T20:57:39Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3545941,
       "digest": "sha256:81e3386a54a915cabc9019efecec1860b9b030191bdaa928790a182ca865bda1",
-      "download_count": 2339,
+      "download_count": 2340,
       "created_at": "2025-12-02T20:57:47Z",
       "updated_at": "2025-12-02T20:57:47Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3367309,
       "digest": "sha256:830d63b0bba1fa040542ec569e3cf77f60d3356b9de75116a344b061e0894245",
-      "download_count": 6303,
+      "download_count": 6312,
       "created_at": "2025-12-02T21:01:20Z",
       "updated_at": "2025-12-02T21:01:21Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3613318,
       "digest": "sha256:0f729b4b6f5f28d395c641eacc2e9ff68d0096b85aa0eec344aa62425144b69b",
-      "download_count": 111768,
+      "download_count": 111893,
       "created_at": "2025-12-02T20:57:47Z",
       "updated_at": "2025-12-02T20:57:48Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3546574,
       "digest": "sha256:726f04c8f576a7fd18b7634f1bbf2f915c43494c1c0f013baa3287edb0d5a2a3",
-      "download_count": 152367,
+      "download_count": 153354,
       "created_at": "2025-12-02T20:58:18Z",
       "updated_at": "2025-12-02T20:58:19Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 3584928,
       "digest": "sha256:0dcd8ac79732c0d5b136f11f4ee00e581440e16a44eab5b3105b611bbf2cf191",
-      "download_count": 691764,
+      "download_count": 692618,
       "created_at": "2025-12-02T20:59:40Z",
       "updated_at": "2025-12-02T20:59:40Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3037592,
       "digest": "sha256:ad59954aa1540e526f97267f60557ea5ef4c7dcf91a0811254134537cb353a3c",
-      "download_count": 30970,
+      "download_count": 30988,
       "created_at": "2025-12-02T20:58:18Z",
       "updated_at": "2025-12-02T20:58:18Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_amd64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2862796,
       "digest": "sha256:4a70c3f6236f2c621bd68357257e21b78c9497de4de1e803301ec0209f168653",
-      "download_count": 4505,
+      "download_count": 4509,
       "created_at": "2025-12-02T20:55:51Z",
       "updated_at": "2025-12-02T20:55:52Z",
       "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_arm64.deb"
