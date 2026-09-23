@@ -4,7 +4,7 @@
 
 A cat(1) clone with wings.
 
-[![x-cmd/install — bat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bat.svg)](https://x-cmd.com/install/bat)
+[![x-cmd/install — bat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bat.svg)](https://x-cmd.com/install/bat)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install bat
 
 ## Code insight
 
-Total: **48,389** lines of code across **93** files in the top 5 languages.
+Total: **48,425** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,142 | 699 | 1,967 | 67 |
+| Rust | 15,178 | 704 | 1,971 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,851 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -30,9 +30,9 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-22
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 60,534 · **Forks**: 2,128 · **Open issues**: 1,636 · **Contributors**: 441
+- **Stars**: 60,548 · **Forks**: 2,130 · **Open issues**: 1,636 · **Contributors**: 442
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1674 · **Open PRs**: 187 · **Closed issues**: 1306 · **Open issues**: 330 · **Commits**: 4029
+- **Releases**: 43 · **Merged PRs**: 1675 · **Open PRs**: 187 · **Closed issues**: 1306 · **Open issues**: 330 · **Commits**: 4031
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 8 | 98 | 1 | 6 | 10 |
-| last60d | 2026-07-24 | 0 | 18 | 115 | 2 | 8 | 30 |
-| 90d | 2026-06-24 | 0 | 29 | 131 | 4 | 16 | 36 |
-| last180d | 2026-03-26 | 0 | 74 | 162 | 15 | 32 | 114 |
-| 360d | 2025-09-27 | 2 | 182 | 185 | 62 | 52 | 327 |
-| last720d | 2024-10-02 | 3 | 324 | 186 | 133 | 95 | 935 |
+| 30d | 2026-08-24 | 0 | 9 | 98 | 1 | 5 | 11 |
+| last60d | 2026-07-25 | 0 | 19 | 114 | 2 | 8 | 31 |
+| 90d | 2026-06-25 | 0 | 30 | 131 | 4 | 15 | 37 |
+| last180d | 2026-03-27 | 0 | 75 | 162 | 15 | 32 | 115 |
+| 360d | 2025-09-28 | 2 | 183 | 185 | 62 | 52 | 328 |
+| last720d | 2024-10-03 | 3 | 324 | 186 | 133 | 95 | 937 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:54:06Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:53:44Z._

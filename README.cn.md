@@ -4,7 +4,7 @@
 
 A cat(1) clone with wings.
 
-[![x-cmd/install — bat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bat.svg?lang=zh)](https://x-cmd.com/install/bat)
+[![x-cmd/install — bat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bat.svg?lang=zh)](https://x-cmd.com/install/bat)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install bat
 
 ## 代码洞察
 
-合计: **48,389** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
+合计: **48,425** 行代码（覆盖前 5 种语言、共 **93** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 15,142 | 699 | 1,967 | 67 |
+| Rust | 15,178 | 704 | 1,971 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,851 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -30,9 +30,9 @@ x install bat
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install bat
 ## 发布
 
 - **最新版本**: `v0.26.1` (2025-12-02)
-- **最近提交**: 2026-09-04
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 60,534 · **Fork**: 2,128 · **开放 issue**: 1,636 · **贡献者**: 441
+- **Star**: 60,548 · **Fork**: 2,130 · **开放 issue**: 1,636 · **贡献者**: 442
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 1674 · **开放 PR**: 187 · **已关闭 issue**: 1306 · **开放 issue**: 330 · **提交数**: 4029
+- **发布数**: 43 · **已合并 PR**: 1675 · **开放 PR**: 187 · **已关闭 issue**: 1306 · **开放 issue**: 330 · **提交数**: 4031
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 8 | 98 | 1 | 6 | 10 |
-| last60d | 2026-07-24 | 0 | 18 | 115 | 2 | 8 | 30 |
-| 90d | 2026-06-24 | 0 | 29 | 131 | 4 | 16 | 36 |
-| last180d | 2026-03-26 | 0 | 74 | 162 | 15 | 32 | 114 |
-| 360d | 2025-09-27 | 2 | 182 | 185 | 62 | 52 | 327 |
-| last720d | 2024-10-02 | 3 | 324 | 186 | 133 | 95 | 935 |
+| 30d | 2026-08-24 | 0 | 9 | 98 | 1 | 5 | 11 |
+| last60d | 2026-07-25 | 0 | 19 | 114 | 2 | 8 | 31 |
+| 90d | 2026-06-25 | 0 | 30 | 131 | 4 | 15 | 37 |
+| last180d | 2026-03-27 | 0 | 75 | 162 | 15 | 32 | 115 |
+| 360d | 2025-09-28 | 2 | 183 | 185 | 62 | 52 | 328 |
+| last720d | 2024-10-03 | 3 | 324 | 186 | 133 | 95 | 937 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ bat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:53:47Z._
