@@ -18,7 +18,7 @@ Total: **48,489** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,242 | 712 | 1,978 | 67 |
+| Rust | 15,242 | 704 | 1,978 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,851 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-14
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 60,792 · **Forks**: 4,376 · **Open issues**: 1,643 · **Contributors**: 443
+- **Stars**: 60,776 · **Forks**: 4,456 · **Open issues**: 1,643 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1677 · **Open PRs**: 219 · **Closed issues**: 1311 · **Open issues**: 332 · **Commits**: 4036
+- **Releases**: 43 · **Merged PRs**: 1680 · **Open PRs**: 222 · **Closed issues**: 1311 · **Open issues**: 332 · **Commits**: 4044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 3 | 36 | 3 | 4 | 4 |
-| last60d | 2026-08-15 | 0 | 11 | 134 | 5 | 9 | 14 |
-| 90d | 2026-07-16 | 0 | 22 | 153 | 7 | 14 | 35 |
-| last180d | 2026-04-17 | 0 | 66 | 192 | 17 | 32 | 97 |
-| 360d | 2025-10-19 | 2 | 169 | 217 | 66 | 50 | 301 |
-| last720d | 2024-10-24 | 3 | 321 | 218 | 135 | 94 | 928 |
+| 30d | 2026-09-15 | 0 | 6 | 38 | 2 | 4 | 7 |
+| last60d | 2026-08-16 | 0 | 14 | 137 | 5 | 9 | 17 |
+| 90d | 2026-07-17 | 0 | 25 | 154 | 7 | 12 | 38 |
+| last180d | 2026-04-18 | 0 | 68 | 195 | 17 | 32 | 100 |
+| 360d | 2025-10-20 | 1 | 171 | 219 | 62 | 50 | 304 |
+| last720d | 2024-10-25 | 3 | 324 | 221 | 135 | 94 | 936 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:40:19Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:22:20Z._
