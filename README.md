@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 60,826 · **Forks**: 4,666 · **Open issues**: 1,646 · **Contributors**: 444
+- **Stars**: 60,835 · **Forks**: 4,763 · **Open issues**: 1,646 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1683 · **Open PRs**: 231 · **Closed issues**: 1312 · **Open issues**: 334 · **Commits**: 4053
+- **Releases**: 43 · **Merged PRs**: 1683 · **Open PRs**: 235 · **Closed issues**: 1312 · **Open issues**: 334 · **Commits**: 4053
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 9 | 48 | 3 | 7 | 11 |
-| last60d | 2026-08-19 | 0 | 17 | 146 | 6 | 12 | 21 |
-| 90d | 2026-07-20 | 0 | 28 | 161 | 8 | 14 | 42 |
-| last180d | 2026-04-21 | 0 | 70 | 204 | 17 | 34 | 104 |
-| 360d | 2025-10-23 | 1 | 174 | 228 | 62 | 53 | 308 |
-| last720d | 2024-10-28 | 3 | 327 | 230 | 136 | 96 | 944 |
+| 30d | 2026-09-19 | 0 | 9 | 51 | 3 | 7 | 10 |
+| last60d | 2026-08-20 | 0 | 17 | 149 | 6 | 12 | 21 |
+| 90d | 2026-07-21 | 0 | 28 | 165 | 7 | 14 | 41 |
+| last180d | 2026-04-22 | 0 | 70 | 208 | 17 | 34 | 92 |
+| 360d | 2025-10-24 | 1 | 174 | 232 | 62 | 52 | 305 |
+| last720d | 2024-10-29 | 3 | 327 | 234 | 136 | 96 | 944 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:19:56Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:24:42Z._
