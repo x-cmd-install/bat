@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-28
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 60,975 · **Forks**: 3,664 · **Open issues**: 1,648 · **Contributors**: 446
+- **Stars**: 60,993 · **Forks**: 3,683 · **Open issues**: 1,648 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1685 · **Open PRs**: 241 · **Closed issues**: 1314 · **Open issues**: 334 · **Commits**: 4062
+- **Releases**: 43 · **Merged PRs**: 1686 · **Open PRs**: 241 · **Closed issues**: 1314 · **Open issues**: 334 · **Commits**: 4065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 9 | 53 | 5 | 5 | 11 |
-| last60d | 2026-08-29 | 0 | 17 | 155 | 8 | 10 | 16 |
-| 90d | 2026-07-30 | 0 | 27 | 168 | 9 | 14 | 28 |
-| last180d | 2026-05-01 | 0 | 59 | 210 | 17 | 32 | 89 |
-| 360d | 2025-11-02 | 1 | 165 | 237 | 62 | 47 | 293 |
-| last720d | 2024-11-07 | 3 | 324 | 240 | 137 | 95 | 935 |
+| 30d | 2026-09-29 | 0 | 10 | 51 | 4 | 5 | 13 |
+| last60d | 2026-08-30 | 0 | 18 | 155 | 8 | 10 | 18 |
+| 90d | 2026-07-31 | 0 | 28 | 168 | 9 | 14 | 30 |
+| last180d | 2026-05-02 | 0 | 60 | 209 | 17 | 31 | 91 |
+| 360d | 2025-11-03 | 1 | 165 | 237 | 61 | 47 | 295 |
+| last720d | 2024-11-08 | 3 | 325 | 240 | 137 | 95 | 938 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:23:59Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:36:30Z._
