@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-01
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 60,990 · **Forks**: 3,692 · **Open issues**: 1,649 · **Contributors**: 447
+- **Stars**: 61,004 · **Forks**: 3,084 · **Open issues**: 1,649 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1687 · **Open PRs**: 243 · **Closed issues**: 1314 · **Open issues**: 335 · **Commits**: 4070
+- **Releases**: 43 · **Merged PRs**: 1688 · **Open PRs**: 243 · **Closed issues**: 1314 · **Open issues**: 335 · **Commits**: 4072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 9 | 44 | 3 | 6 | 15 |
-| last60d | 2026-09-01 | 0 | 14 | 156 | 8 | 11 | 20 |
-| 90d | 2026-08-02 | 0 | 22 | 166 | 8 | 15 | 32 |
-| last180d | 2026-05-04 | 0 | 61 | 210 | 17 | 32 | 93 |
-| 360d | 2025-11-05 | 1 | 165 | 239 | 59 | 48 | 297 |
-| last720d | 2024-11-10 | 3 | 326 | 242 | 137 | 95 | 943 |
+| 30d | 2026-10-02 | 0 | 10 | 43 | 3 | 6 | 14 |
+| last60d | 2026-09-02 | 0 | 15 | 155 | 8 | 10 | 18 |
+| 90d | 2026-08-03 | 0 | 23 | 165 | 8 | 14 | 32 |
+| last180d | 2026-05-05 | 0 | 60 | 209 | 17 | 31 | 80 |
+| 360d | 2025-11-06 | 1 | 165 | 238 | 59 | 48 | 297 |
+| last720d | 2024-11-11 | 3 | 327 | 242 | 137 | 95 | 944 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:26:44Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:49:19Z._
