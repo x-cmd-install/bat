@@ -14,11 +14,11 @@ x install bat
 
 ## Code insight
 
-Total: **48,813** lines of code across **93** files in the top 5 languages.
+Total: **49,237** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,555 | 719 | 2,011 | 67 |
+| Rust | 15,979 | 717 | 2,043 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,851 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -30,8 +30,8 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 61,056 · **Forks**: 3,068 · **Open issues**: 1,649 · **Contributors**: 452
+- **Stars**: 61,080 · **Forks**: 3,043 · **Open issues**: 1,649 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1698 · **Open PRs**: 233 · **Closed issues**: 1317 · **Open issues**: 332 · **Commits**: 4115
+- **Releases**: 43 · **Merged PRs**: 1702 · **Open PRs**: 233 · **Closed issues**: 1317 · **Open issues**: 332 · **Commits**: 4132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 16 | 31 | 4 | 4 | 23 |
-| last60d | 2026-09-05 | 0 | 21 | 143 | 10 | 7 | 33 |
-| 90d | 2026-08-06 | 0 | 32 | 153 | 10 | 12 | 49 |
-| last180d | 2026-05-08 | 0 | 69 | 197 | 19 | 27 | 97 |
-| 360d | 2025-11-09 | 1 | 175 | 228 | 62 | 45 | 314 |
-| last720d | 2024-11-14 | 3 | 337 | 232 | 140 | 92 | 972 |
+| 30d | 2026-10-06 | 0 | 20 | 32 | 4 | 4 | 32 |
+| last60d | 2026-09-06 | 0 | 25 | 134 | 10 | 7 | 42 |
+| 90d | 2026-08-07 | 0 | 36 | 153 | 10 | 12 | 58 |
+| last180d | 2026-05-09 | 0 | 72 | 197 | 18 | 27 | 106 |
+| 360d | 2025-11-10 | 1 | 179 | 228 | 62 | 45 | 323 |
+| last720d | 2024-11-15 | 3 | 341 | 232 | 139 | 92 | 988 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:07:36Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:29:19Z._
