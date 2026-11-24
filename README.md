@@ -26,12 +26,12 @@ Total: **49,674** lines of code across **93** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 61,377 · **Forks**: 2,365 · **Open issues**: 1,655 · **Contributors**: 466
+- **Stars**: 61,398 · **Forks**: 2,349 · **Open issues**: 1,654 · **Contributors**: 465
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1721 · **Open PRs**: 239 · **Closed issues**: 1323 · **Open issues**: 332 · **Commits**: 4197
+- **Releases**: 43 · **Merged PRs**: 1720 · **Open PRs**: 239 · **Closed issues**: 1322 · **Open issues**: 332 · **Commits**: 4197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 25 | 17 | 3 | 5 | 36 |
-| last60d | 2026-09-24 | 0 | 41 | 60 | 8 | 10 | 70 |
-| 90d | 2026-08-25 | 0 | 52 | 157 | 12 | 14 | 82 |
-| last180d | 2026-05-27 | 0 | 86 | 197 | 21 | 26 | 124 |
-| 360d | 2025-11-28 | 1 | 194 | 231 | 60 | 46 | 325 |
-| last720d | 2024-12-03 | 3 | 351 | 238 | 141 | 93 | 1032 |
+| 30d | 2026-10-25 | 0 | 23 | 17 | 2 | 5 | 36 |
+| last60d | 2026-09-25 | 0 | 40 | 59 | 7 | 10 | 70 |
+| 90d | 2026-08-26 | 0 | 51 | 157 | 11 | 14 | 82 |
+| last180d | 2026-05-28 | 0 | 85 | 197 | 20 | 26 | 124 |
+| 360d | 2025-11-29 | 1 | 193 | 231 | 59 | 46 | 325 |
+| last720d | 2024-12-04 | 3 | 350 | 238 | 140 | 93 | 1032 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:17:05Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:30:20Z._
