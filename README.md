@@ -14,11 +14,11 @@ x install bat
 
 ## Code insight
 
-Total: **49,674** lines of code across **93** files in the top 5 languages.
+Total: **49,740** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,412 | 726 | 2,071 | 67 |
+| Rust | 16,475 | 734 | 2,077 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,855 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-26
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 61,476 · **Forks**: 2,318 · **Open issues**: 1,654 · **Contributors**: 465
+- **Stars**: 61,516 · **Forks**: 2,323 · **Open issues**: 1,654 · **Contributors**: 467
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1720 · **Open PRs**: 239 · **Closed issues**: 1322 · **Open issues**: 332 · **Commits**: 4197
+- **Releases**: 43 · **Merged PRs**: 1722 · **Open PRs**: 239 · **Closed issues**: 1323 · **Open issues**: 331 · **Commits**: 4203
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 23 | 17 | 2 | 5 | 36 |
-| last60d | 2026-09-26 | 0 | 40 | 58 | 7 | 9 | 70 |
-| 90d | 2026-08-27 | 0 | 50 | 157 | 11 | 14 | 82 |
-| last180d | 2026-05-29 | 0 | 85 | 197 | 20 | 26 | 124 |
-| 360d | 2025-11-30 | 1 | 192 | 231 | 59 | 46 | 325 |
-| last720d | 2024-12-05 | 3 | 350 | 238 | 138 | 93 | 1032 |
+| 30d | 2026-10-27 | 0 | 25 | 17 | 2 | 5 | 40 |
+| last60d | 2026-09-27 | 0 | 42 | 56 | 7 | 9 | 74 |
+| 90d | 2026-08-28 | 0 | 51 | 157 | 11 | 13 | 86 |
+| last180d | 2026-05-30 | 0 | 87 | 197 | 20 | 26 | 128 |
+| 360d | 2025-12-01 | 1 | 186 | 231 | 59 | 45 | 329 |
+| last720d | 2024-12-06 | 3 | 352 | 238 | 139 | 92 | 1038 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:13:46Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:12:29Z._
