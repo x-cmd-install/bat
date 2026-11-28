@@ -14,11 +14,11 @@ x install bat
 
 ## Code insight
 
-Total: **50,029** lines of code across **93** files in the top 5 languages.
+Total: **50,396** lines of code across **93** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,758 | 737 | 2,110 | 67 |
+| Rust | 17,125 | 742 | 2,147 | 67 |
 | JavaScript | 6,878 | 1,743 | 1,976 | 4 |
 | Python | 6,855 | 784 | 1,434 | 7 |
 | Sh | 1,631 | 52 | 139 | 11 |
@@ -41,54 +41,54 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.26.1` (2025-12-02)
-- **Last commit**: 2026-11-27
+- **Latest**: `v0.27.0` (2026-11-28)
+- **Last commit**: 2026-11-28
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 61,538 · **Forks**: 2,339 · **Open issues**: 1,654 · **Contributors**: 471
+- **Stars**: 61,512 · **Forks**: 2,308 · **Open issues**: 1,654 · **Contributors**: 473
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 1728 · **Open PRs**: 240 · **Closed issues**: 1324 · **Open issues**: 330 · **Commits**: 4225
+- **Releases**: 44 · **Merged PRs**: 1736 · **Open PRs**: 234 · **Closed issues**: 1325 · **Open issues**: 329 · **Commits**: 4255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 29 | 20 | 3 | 4 | 49 |
-| last60d | 2026-09-28 | 0 | 47 | 59 | 8 | 8 | 83 |
-| 90d | 2026-08-29 | 0 | 57 | 159 | 12 | 12 | 97 |
-| last180d | 2026-05-31 | 0 | 93 | 197 | 21 | 25 | 139 |
-| 360d | 2025-12-02 | 1 | 189 | 232 | 60 | 44 | 340 |
-| last720d | 2024-12-07 | 3 | 358 | 239 | 140 | 91 | 1060 |
+| 30d | 2026-10-29 | 1 | 34 | 14 | 3 | 4 | 64 |
+| last60d | 2026-09-29 | 1 | 54 | 52 | 7 | 8 | 98 |
+| 90d | 2026-08-30 | 1 | 65 | 153 | 12 | 12 | 112 |
+| last180d | 2026-06-01 | 1 | 95 | 189 | 21 | 25 | 154 |
+| 360d | 2025-12-03 | 1 | 197 | 226 | 58 | 44 | 355 |
+| last720d | 2024-12-08 | 4 | 366 | 233 | 140 | 91 | 1088 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bat-musl_0.26.1_arm64.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_arm64.deb) | 2.8 MiB | `runtime/deb/arm64` |
-| [bat-musl_0.26.1_musl-linux-amd64.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-amd64.deb) | 2.9 MiB | `native/linux/x64/musl` |
-| [bat-musl_0.26.1_musl-linux-i686.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-i686.deb) | 2.9 MiB | `native/linux/x86/musl` |
-| [bat-v0.26.1-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
-| [bat-v0.26.1-aarch64-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-pc-windows-msvc.zip) | 3.3 MiB | `native/win/arm64` |
-| [bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
-| [bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz) | 3.2 MiB | `native/linux/arm64/musl` |
-| [bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz) | 3.2 MiB | `native/linux/arm/glibc` |
-| [bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz) | 3.2 MiB | `native/linux/arm/musl` |
-| [bat-v0.26.1-i686-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-pc-windows-msvc.zip) | 3.2 MiB | `native/win/x64` |
-| [bat-v0.26.1-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x86/glibc` |
-| [bat-v0.26.1-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-musl.tar.gz) | 3.4 MiB | `native/linux/x86/musl` |
-| [bat-v0.26.1-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/x64` |
-| [bat-v0.26.1-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-pc-windows-msvc.zip) | 3.4 MiB | `native/win/x64` |
-| [bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x64/glibc` |
-| [bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz) | 3.4 MiB | `native/linux/x64/musl` |
-| [bat_0.26.1_amd64.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_amd64.deb) | 2.9 MiB | `runtime/deb/amd64` |
-| [bat_0.26.1_arm64.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_arm64.deb) | 2.7 MiB | `runtime/deb/arm64` |
-| [bat_0.26.1_armhf.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_armhf.deb) | 2.8 MiB | `runtime/deb/armhf` |
-| [bat_0.26.1_i686.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_i686.deb) | 2.9 MiB | `other` |
-| [bat_0.26.1_musl-linux-armhf.deb](https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_musl-linux-armhf.deb) | 2.8 MiB | `native/linux/arm/musl` |
+| [bat-musl_0.27.0_musl-linux-amd64.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-musl_0.27.0_musl-linux-amd64.deb) | 3.2 MiB | `native/linux/x64/musl` |
+| [bat-musl_0.27.0_musl-linux-arm64.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-musl_0.27.0_musl-linux-arm64.deb) | 3.1 MiB | `native/linux/arm64/musl` |
+| [bat-musl_0.27.0_musl-linux-armhf.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-musl_0.27.0_musl-linux-armhf.deb) | 3.1 MiB | `native/linux/arm/musl` |
+| [bat-musl_0.27.0_musl-linux-i686.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-musl_0.27.0_musl-linux-i686.deb) | 3.2 MiB | `native/linux/x86/musl` |
+| [bat-v0.27.0-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-aarch64-apple-darwin.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [bat-v0.27.0-aarch64-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-aarch64-pc-windows-msvc.zip) | 3.7 MiB | `native/win/arm64` |
+| [bat-v0.27.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-aarch64-unknown-linux-gnu.tar.gz) | 3.6 MiB | `native/linux/arm64/glibc` |
+| [bat-v0.27.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-aarch64-unknown-linux-musl.tar.gz) | 3.6 MiB | `native/linux/arm64/musl` |
+| [bat-v0.27.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-arm-unknown-linux-gnueabihf.tar.gz) | 3.7 MiB | `native/linux/arm/glibc` |
+| [bat-v0.27.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-arm-unknown-linux-musleabihf.tar.gz) | 3.7 MiB | `native/linux/arm/musl` |
+| [bat-v0.27.0-i686-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-i686-pc-windows-msvc.zip) | 3.6 MiB | `native/win/x64` |
+| [bat-v0.27.0-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-i686-unknown-linux-gnu.tar.gz) | 3.8 MiB | `native/linux/x86/glibc` |
+| [bat-v0.27.0-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-i686-unknown-linux-musl.tar.gz) | 3.8 MiB | `native/linux/x86/musl` |
+| [bat-v0.27.0-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-x86_64-apple-darwin.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [bat-v0.27.0-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-x86_64-pc-windows-msvc.zip) | 3.8 MiB | `native/win/x64` |
+| [bat-v0.27.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-x86_64-unknown-linux-gnu.tar.gz) | 3.8 MiB | `native/linux/x64/glibc` |
+| [bat-v0.27.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat-v0.27.0-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
+| [bat_0.27.0_amd64.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat_0.27.0_amd64.deb) | 3.2 MiB | `runtime/deb/amd64` |
+| [bat_0.27.0_arm64.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat_0.27.0_arm64.deb) | 3.1 MiB | `runtime/deb/arm64` |
+| [bat_0.27.0_armhf.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat_0.27.0_armhf.deb) | 3.1 MiB | `runtime/deb/armhf` |
+| [bat_0.27.0_i386.deb](https://github.com/sharkdp/bat/releases/download/v0.27.0/bat_0.27.0_i386.deb) | 3.3 MiB | `runtime/deb/i386` |
 
 ## Improve this data
 
@@ -99,4 +99,4 @@ Install metadata for bat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:00:29Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:37:09Z._
